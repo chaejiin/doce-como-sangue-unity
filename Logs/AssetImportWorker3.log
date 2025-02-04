@@ -1,0 +1,289 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.23f1 (1c4764c07fb4) revision 1853284'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'pt' Physical Memory: 32473 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/leandro.ccassano/Downloads/Projetos-base/Projetos-base/CozinhaMaluca
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+51933
+-job-worker-count
+9
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/leandro.ccassano/Downloads/Projetos-base/Projetos-base/CozinhaMaluca
+C:/Users/leandro.ccassano/Downloads/Projetos-base/Projetos-base/CozinhaMaluca
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17352]  Target information:
+
+Player connection [17352]  * "[IP] 10.59.46.46 [Port] 0 [Flags] 2 [Guid] 3035916480 [EditorId] 3035916480 [Version] 1048832 [Id] WindowsEditor(7,SAN0674416W10-1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17352]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3035916480 [EditorId] 3035916480 [Version] 1048832 [Id] WindowsEditor(7,SAN0674416W10-1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17352]  * "[IP] 172.20.64.1 [Port] 0 [Flags] 2 [Guid] 3035916480 [EditorId] 3035916480 [Version] 1048832 [Id] WindowsEditor(7,SAN0674416W10-1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17352] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [17352] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.23f1 (1c4764c07fb4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/leandro.ccassano/Downloads/Projetos-base/Projetos-base/CozinhaMaluca/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA RTX A2000 12GB (ID=0x2571)
+    Vendor:   NVIDIA
+    VRAM:     12137 MB
+    Driver:   30.0.14.7247
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56928
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.016953 seconds.
+- Loaded All Assemblies, in  0.815 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 562 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.961 seconds
+Domain Reload Profiling: 1771ms
+	BeginReloadAssembly (358ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (62ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (86ms)
+	LoadAllAssembliesAndSetupDomain (288ms)
+		LoadAssemblies (361ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (275ms)
+			TypeCache.Refresh (273ms)
+				TypeCache.ScanAssembly (251ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (961ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (925ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (694ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (10ms)
+			ProcessInitializeOnLoadAttributes (147ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.135 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.577 seconds
+Domain Reload Profiling: 1706ms
+	BeginReloadAssembly (948ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (71ms)
+		LoadAssemblies (349ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (47ms)
+			TypeCache.Refresh (36ms)
+				TypeCache.ScanAssembly (27ms)
+			BuildScriptInfoCaches (6ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (578ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (290ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (122ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (68ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 405 unused Assets / (143.3 KB). Loaded Objects now: 1007.
+Memory consumption went from 83.0 MB to 82.8 MB.
+Total: 3.315000 ms (FindLiveObjects: 0.061100 ms CreateObjectMapping: 0.016200 ms MarkObjects: 3.097700 ms  DeleteObjects: 0.138700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 291113.560557 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_005.png
+  artifactKey: Guid(16dd90ab84e01ae49b7b727a13c5ab5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_005.png using Guid(16dd90ab84e01ae49b7b727a13c5ab5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e726dade9e6944d6c94feced023be71') in 0.0656082 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_019.png
+  artifactKey: Guid(dbfbe1f68e8766d409465b298c979035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_019.png using Guid(dbfbe1f68e8766d409465b298c979035) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6ff5de9e3ddbb4d4ee43b5f419b5c497') in 0.0156055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_018.png
+  artifactKey: Guid(5b7425f84cfaee84fa2b456138702484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_018.png using Guid(5b7425f84cfaee84fa2b456138702484) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c60bc565a313f6d198355b383573ea1f') in 0.0151185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_028.png
+  artifactKey: Guid(e0aba8a7bcd978e4d85f77a7ff7a5b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_028.png using Guid(e0aba8a7bcd978e4d85f77a7ff7a5b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '98e4e77e51c38e2d93df446032f2245a') in 0.0172417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_033.png
+  artifactKey: Guid(0eea6712de121514faee6acbe86257aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_033.png using Guid(0eea6712de121514faee6acbe86257aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9ab406abc8659ccc0111b56a1c63fa3c') in 0.0147069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_029.png
+  artifactKey: Guid(55c4ef3b75bf98f49a1dfe48f9d628e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_029.png using Guid(55c4ef3b75bf98f49a1dfe48f9d628e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd77bd043cd52d7c2bdb5f23563273191') in 0.0124656 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_042.png
+  artifactKey: Guid(fe95d1f5947efc94da9d282d04685123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_042.png using Guid(fe95d1f5947efc94da9d282d04685123) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '37fd84d5434ec4af20daf18345ffd6fc') in 0.0142756 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_034.png
+  artifactKey: Guid(7ee2a530ff57465418076288a0bfe5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_034.png using Guid(7ee2a530ff57465418076288a0bfe5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '97a7f3144a170dfe2d4f2b04bec2f84c') in 0.0083128 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_022.png
+  artifactKey: Guid(2dde44050ba82d64886f9e39f0141363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_022.png using Guid(2dde44050ba82d64886f9e39f0141363) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eec46c676468b7f75e11f7485242b21d') in 0.0077957 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_049.png
+  artifactKey: Guid(2c21099db304b0546969a43196a7dc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_049.png using Guid(2c21099db304b0546969a43196a7dc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca3f088c4d9e61ba88a619e9856655b3') in 0.0112489 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001976 seconds.
+  path: Assets/Multimedia/Images/utensilios/Colored/genericItem_color_053.png
+  artifactKey: Guid(ee2127288fe8076409fe4ee762e8329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Multimedia/Images/utensilios/Colored/genericItem_color_053.png using Guid(ee2127288fe8076409fe4ee762e8329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9902561e5d3fd08184d1344b62f91e51') in 0.0097243 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
