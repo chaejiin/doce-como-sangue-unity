@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|c:\\users\\leandro.ccassano\\downloads\\projetos-base\\projetos-base\\cozinhamaluca\\assets\\scripts\\controlador jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlador jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controlador Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\Assets\\Scripts\\Controlador Jogador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controlador Jogador.cs",
+              "ToolTip": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\Assets\\Scripts\\Controlador Jogador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controlador Jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:26:30.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
