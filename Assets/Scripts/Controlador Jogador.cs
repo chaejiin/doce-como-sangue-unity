@@ -4,13 +4,9 @@ public class ControladorJogador : MonoBehaviour
 {
 
     public float taxaMovimentacao;
+    public Geral juizDoJogo;
 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+   
 
     // Update is called once per frame
     void Update()
@@ -38,5 +34,18 @@ public class ControladorJogador : MonoBehaviour
 
         Vector3 novaPos = new Vector3(altX, altY, 0);
         transform.position += novaPos;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.name == "Voador")
+        { 
+            juizDoJogo.MarcarPonto();
+            collision.GetComponent<VoadorControlador>().posicaoObj.x =
+                collision.GetComponent<VoadorControlador>().posInicialX;
+        
+        
+        }
+        
     }
 }

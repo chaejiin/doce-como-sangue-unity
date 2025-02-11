@@ -402,6 +402,9 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/Controlador Jogador.cs"
+"Assets/Scripts/Geral.cs"
+"Assets/Scripts/Limite.cs"
+"Assets/Scripts/Voador Controlador.cs"
 -langversion:9.0
 /deterministic
 /optimize+
