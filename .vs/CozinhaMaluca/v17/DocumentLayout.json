@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|c:\\users\\leandro.ccassano\\downloads\\projetos-base\\projetos-base\\cozinhamaluca\\assets\\scripts\\controlador jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlador jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\assets\\scripts\\voador controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\voador controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|c:\\users\\leandro.ccassano\\downloads\\projetos-base\\projetos-base\\cozinhamaluca\\assets\\scripts\\limite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\limite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\assets\\scripts\\geral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\geral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\assets\\scripts\\voador controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\voador controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\assets\\scripts\\controlador jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D55B33F-806D-11D0-B3B2-4843AC09F2BC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlador jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Limite.cs",
               "DocumentMoniker": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\Assets\\Scripts\\Limite.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Limite.cs",
@@ -43,42 +43,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Geral.cs",
               "DocumentMoniker": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\Assets\\Scripts\\Geral.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Geral.cs",
               "ToolTip": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\Assets\\Scripts\\Geral.cs",
               "RelativeToolTip": "Assets\\Scripts\\Geral.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:46:51.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T17:46:51.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Voador Controlador.cs",
               "DocumentMoniker": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\Assets\\Scripts\\Voador Controlador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Voador Controlador.cs",
               "ToolTip": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\Assets\\Scripts\\Voador Controlador.cs",
               "RelativeToolTip": "Assets\\Scripts\\Voador Controlador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wDYAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:04:50.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T17:04:50.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Controlador Jogador.cs",
               "DocumentMoniker": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\Assets\\Scripts\\Controlador Jogador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Controlador Jogador.cs",
               "ToolTip": "C:\\Users\\leandro.ccassano\\Downloads\\Projetos-base\\Projetos-base\\CozinhaMaluca\\Assets\\Scripts\\Controlador Jogador.cs",
               "RelativeToolTip": "Assets\\Scripts\\Controlador Jogador.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T20:26:30.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T20:26:30.602Z"
             }
           ]
         }
